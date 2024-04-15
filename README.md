@@ -4,7 +4,7 @@ Hi 👋 My name is Daniil Deinekin
 Database and information technology steal my heart away.
 -------------------
 
-I am a Java developer at AstraZeneca. Most of my projects are in private repositories. But I hope you'll still be able to find something interesting. I work with Telegram API and Spring, create ready-made stores and android apps from scratch. Eager to build a career in Java development.
+I am a Java developer with experience at AstraZeneca. Most of my projects are in private repositories. But I hope you'll still be able to find something interesting. I work with Telegram API and Spring, create ready-made stores and android apps from scratch. Eager to build a career in Java development.
 
 * 🌍  I'm based in Sweden -> Gothenburg
 * ✉️  You can contact me at [deinekindaniil21@gmail.com](mailto:deinekindaniil21@gmail.com)
